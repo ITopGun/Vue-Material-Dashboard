@@ -8,7 +8,7 @@
 
 > Vue Material Dashboard
 
-This project is using `Vue 2` and based on HTML version of [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) which designed by [Creative Tim](https://www.creative-tim.com/)
+This project is using `Vue 2` and based on HTML version of [Material Dashboard](https://www.creative-tim.com/product/material-dashboard)
 
 Check the [LIVE DEMO HERE](http://vue-material-dashboard.ltv.vn/) or [HEROKU HERE](https://vue-material-dashboard.herokuapp.com/)
 
