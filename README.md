@@ -6,7 +6,7 @@
 
 # vue-material-dashboard
 
-> Vue Material Dashboard - Inspired by Material Dashboard of Creative Tim.
+> Vue Material Dashboard
 
 This project is using `Vue 2` and based on HTML version of [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) which designed by [Creative Tim](https://www.creative-tim.com/)
 
