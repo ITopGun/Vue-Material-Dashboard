@@ -48,8 +48,6 @@ Feel free to use `yarn` instead of `npm`.
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-Special thanks to @[Nguyen San](https://github.com/sandangel) for this contribution.
-
-## Contributors
+# Contributors
 @[Nguyen San](https://github.com/sandangel)
 
